@@ -1,0 +1,16 @@
+.checkout{
+    font-size: 18px;
+}
+.container-fluid{
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+}
+.checkout{
+    background-color: goldenrod;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
