@@ -8,7 +8,7 @@ import './Course.css'
 const Course = () => {
 
     // set fakeData
-    const [courses, setCourses] = useState(fakeData)
+    const [courses] = useState(fakeData)
 
     //set cart
     const [cart, setCart] = useState([])
